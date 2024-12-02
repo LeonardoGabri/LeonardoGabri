@@ -1,6 +1,6 @@
-### E ai, sou o Leonardo Gabriel
+### E ai, sou o Leonardo Gabriel, bacharel em Ciência da Computação.
 
-Desenvolvedor Front-end (Angular/Typescript)
+ 3 anos como desenvolvedor TOTVS (Angular | Typescript | POUI | JAVA | POSTGRESQL | MONGODB | DOCKER | GCP)
 
 #
 <div>
